@@ -7,6 +7,13 @@ Multi-page website featuring college club info, activities, team, events, and ga
 ## Problem Statement
 Most college clubs lack an online presence to engage and inform.
 ***
+##🧱 Tech Stack
+
+- HTML5
+- CSS3 (custom styles)
+- JavaScript 
+
+  ***
 ## Objectives
 - Pages: Home, About, Events, Members, Gallery, Contact
 
